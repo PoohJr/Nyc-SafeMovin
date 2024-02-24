@@ -1,2 +1,2 @@
 # Nyc-SafeMovin
-Personal project about findin the best place tolive based on crime rate, or anything else that helps with that
+Personal project about finding the best place to live based on crime rate, or anything else that helps with that
